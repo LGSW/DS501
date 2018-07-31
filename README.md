@@ -1,2 +1,2 @@
 # DS501
-Course project
+Course projects
