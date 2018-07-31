@@ -1,2 +1,3 @@
 # DS501
-Course projects
+Some codes of course projects
+The course is "Introduction to Data Science"
